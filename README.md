@@ -36,7 +36,7 @@ A simple yet powerful Flutter app that allows users to **sign up, log in, and pa
 
 | Login | Group Chat |
 |-------|------------|
-| ![Login](assets/login_screen.png) | ![Chat](assets/chat_screen.png) |
+| ![Login](assets/Screenshot_20250716_015411.jpg) | ![Chat](assets/Screenshot_20250716_015638.jpg) |
 
 > *(Add your own screenshots in the `assets/` folder)*
 
