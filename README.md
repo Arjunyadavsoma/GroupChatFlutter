@@ -48,3 +48,4 @@ A simple yet powerful Flutter app that allows users to **sign up, log in, and pa
 
 ```bash
 git clone https://github.com/Arjunyadavsoma/GroupChatFlutter
+# final-app-exp
